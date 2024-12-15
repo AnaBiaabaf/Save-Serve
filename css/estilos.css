@@ -81,10 +81,11 @@ footer {
     margin-bottom: 2rem;
     text-align: justify;
 }
-
+h3{
+    text-align: center;
+}
 h2 {
     text-align: center;
-    margin-top: 4rem;
     font-size: 2rem;
 }
 

@@ -133,7 +133,7 @@ footer {
 
 h2 {
     text-align: center;
-    margin-top: 1.6rem;
+    margin-top: 0.5rem;
     font-size: 2rem;
     margin-bottom: 0 auto;
 }
@@ -263,8 +263,8 @@ h2 {
 }
 
 form{
-    background-color: #F2EFE9;
-    color: #263640;
+    background-color: #263640;
+    color: #F2EFE9;
     font-size: 1.5em;
     margin-top: 2rem;
     margin-bottom: 2rem;
